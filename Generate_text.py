@@ -1,5 +1,6 @@
 from Sequence_generator import gen_seq
 from Sequence_generator import load as load_txt
+from Sequence_generator import save as save_txt
 from Model import create_model
 from pickle import load
 from keras.models import load_model
@@ -45,14 +46,18 @@ def determine_seed(seed, use_seed, seq_filename):
     # generate seed with random number
     sequence_text = load_txt(seq_filename)
     sequences = sequence_text.split('\n')
-    sequence = sequences[random.randint(1, len(sequences))]
-    return sequence
+    while True:
+        sequence = sequences[random.randint(1, len(sequences))]
+        # make sure seed starts with a capital letter
+        if sequence[0] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
+            return sequence
 
 
 txt_filename = 'nursery_rhymes_clean.txt'
 seq_filename = 'sequences.txt'
 model_filename = 'model.h5'
 mapping_filename = 'mapping.pkl'
+output_filename = 'output.txt'
 
 # create_seq_and_model(txt_filename, seq_filename, model_filename, 250, 50)
 model = load_model(model_filename)
@@ -60,13 +65,15 @@ mapping = load(open(mapping_filename, 'rb'))
 
 seed_list = ['The king', 'A queen', 'Maid\'s', 'I wouldn\'t', 'What is the', 'Once on a']
 out_list = list()
-num_text = 10
+num_text = 50
 
-for seed in seed_list:
-    out_list.append(gen_text(model, mapping, seed, use_seed=True, seq_filename=seq_filename))
+# for seed in seed_list:
+#    out_list.append(gen_text(model, mapping, seed, use_seed=True, seq_filename=seq_filename))
 
 for i in range(num_text):
     out_list.append(gen_text(model, mapping, seq_filename=seq_filename))
+
+save_txt(out_list, 'output.txt')
 
 for out in out_list:
     print(out)
