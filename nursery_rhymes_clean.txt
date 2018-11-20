@@ -1,3 +1,19 @@
+Sing a song of sixpence,
+A pocket full of rye.
+Four and twenty blackbirds,
+Baked in a pie.
+When the pie was opened
+The birds began to sing;
+Wasn't that a dainty dish,
+To set before the king.
+The king was in his counting house,
+Counting out his money;
+The queen was in the parlour,
+Eating bread and honey.
+The maid was in the garden,
+Hanging out the clothes,
+When down came a blackbird
+And pecked off her nose.
     The Queen of Hearts she made some tarts,
 All on a summer's day;
     The Knave of Hearts he stole those tarts,
@@ -407,7 +423,6 @@ And killed a crow.
 I met a man with bandy legs;
 Bandy legs and crooked toes,
 I tripped up his heels, and he fell on his nose.
-THE PUMPKIN EATER
 Peter, Peter, pumpkin eater,
 Had a wife and couldn't keep her;
 He put her in a pumpkin shell,
@@ -2468,9 +2483,6 @@ And Piggy Wiggie!
 
 
 
-THREE BRETHREN OUT OF SPAIN
-
-
 "We are three brethren out of Spain,
 Come to court your daughter Jane."
 "My daughter Jane she is too young;
@@ -3136,63 +3148,6 @@ To any man alive.
 They'll think that I'm gone mad;
 For many a joyful day
 My fiddle and I have had.
-
-
-
-
-
-A was an Archer, and shot at a Frog
-
-    B was a Butcher, and kept a Bull-dog
-
-    C was a Captain, all covered with Lace
-
-    D was a Drunkard, and had a Red Face
-
-    E was an Esquire, with insolent Brow
-
-    F was a Farmer, and followed the Plough
-
-    G was a Gamester, who had but Ill Luck
-
-    H was a Hunter, and hunted a Buck
-
-    I was an Innkeeper, who loved to Bouse
-
-    J was a Joiner, and built up a House
-
-    K was King William, once governed this Land
-
-    L was a Lady, who had a White Hand
-
-    M was a Miser, and hoarded up Gold
-
-    N was a Nobleman, Gallant and Bold
-
-    O was an Oyster Wench, and went about Town
-
-    P was a Parson, and wore a Black Gown
-
-    Q was a Queen, who was fond of good Flip
-
-    R was a Robber, and wanted a Whip
-
-    S was a Sailor, and spent all he got
-
-    T was a Tinker, and mended a Pot
-
-    U was a Usurer, a miserable Elf
-
-    V was a Vintner, who drank all Himself
-
-    W was a Watchman, and guarded the Door
-
-    X was Expensive, and so became Poor
-
-    Y was a Youth, that did not love School
-
-    Z was a Zany, a silly old Fool
-
 
 
 
