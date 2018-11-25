@@ -12,6 +12,12 @@ Comes prepackaged with a collection of nursery rhymes for training and a precomp
 - Disallows infinite repetition in results
 - Optional accuracy vs model compute time settings (epochs and nodes/units)
 
+# Run instructions
+
+Make edits as desired to the Main.py file then run. 
+
+Use create_seq_and_model() to create a model from your text file and gen_text() to generate a sentence from the model
+
 # Sample output
 
 These 50 random sentences were generated using the provided nursery_rhymes_clean.txt (Titles removed, corpus cleaned) and a computed 94% accurate model
