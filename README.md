@@ -1,4 +1,4 @@
-# textgen-LSTM
+# Description
 Creates similar texts from pool of input texts using an LSTM machine learning model
 
 Uses [keras](http://keras.io), written in python with a standard tensorflow backend
@@ -16,7 +16,7 @@ Comes prepackaged with a collection of nursery rhymes for training and a precomp
 
 These 50 random sentences were generated using the provided nursery_rhymes_clean.txt (Titles removed, corpus cleaned) and a computed 94% accurate model
 
-'When she came back The dog sat inoa offe came to yonder wee town, e-ho!
+`When she came back The dog sat inoa offe came to yonder wee town, e-ho!
 As the light-hearted fairy, heigh ho!
 Dawson, honey? The wife who sells the barley Out of the wingow, knyw goes, And they began to cry, "Oh, Mother dear, Do you not hear That we have lost our mittens!
 And long to be picking a bone, e-ho!
@@ -65,4 +65,4 @@ For the fox has been through the town, Up stairs and down stairs.
 And there will your wedding cake; But oh, she's too young To be taken from her mammy!
 They began to cry, "Oh, Mother dear, Do you not hear That we have lost our mittens!
 September brings the fruiterer's To buy him some bread, When she came back The dog sat inoa offe came to yonder wee town, e-ho!
-In marble halls as white as a wand.'
+In marble halls as white as a wand.`
