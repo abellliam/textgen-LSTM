@@ -16,7 +16,10 @@ Comes prepackaged with a collection of nursery rhymes for training and a precomp
 
 These 50 random sentences were generated using the provided nursery_rhymes_clean.txt (Titles removed, corpus cleaned) and a computed 94% accurate model
 
-`When she came back The dog sat inoa offe came to yonder wee town, e-ho!
+
+---
+
+When she came back The dog sat inoa offe came to yonder wee town, e-ho!
 
 
 As the light-hearted fairy, heigh ho!
@@ -168,4 +171,6 @@ They began to cry, "Oh, Mother dear, Do you not hear That we have lost our mitte
 September brings the fruiterer's To buy him some bread, When she came back The dog sat inoa offe came to yonder wee town, e-ho!
 
 
-In marble halls as white as a wand.`
+In marble halls as white as a wand.
+
+---
